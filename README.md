@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bavaliyamehulbhai/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -60,8 +63,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bavaliyamehulbhai/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
