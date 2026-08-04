@@ -1,14 +1,14 @@
 class Solution {
     public String removeDuplicates(String s) {
-        StringBuilder stack = new StringBuilder();
-        for (char ch : s.toCharArray()) {
-            int len = stack.length();
-            if (len > 0 && stack.charAt(len - 1) == ch) {
-                stack.deleteCharAt(len - 1); // remove duplicate
+        char[] arr = s.toCharArray();
+        int top = -1; // stack pointer
+        for (char ch : arr) {
+            if (top >= 0 && arr[top] == ch) {
+                top--; // pop
             } else {
-                stack.append(ch); // push character
+                arr[++top] = ch; // push
             }
         }
-        return stack.toString();
+        return new String(arr, 0, top + 1);
     }
 }
