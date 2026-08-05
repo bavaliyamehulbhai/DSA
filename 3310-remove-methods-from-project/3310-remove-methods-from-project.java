@@ -1,51 +1,44 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         List<List<Integer>> graph = new ArrayList<>();
-        List<List<Integer>> reverse = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
-            reverse.add(new ArrayList<>());
-        }
+        for (int i = 0; i < n; i++) graph.add(new ArrayList<>());
         
+        // Build graph
         for (int[] edge : invocations) {
-            int a = edge[0], b = edge[1];
-            graph.get(a).add(b);
-            reverse.get(b).add(a);
+            graph.get(edge[0]).add(edge[1]);
         }
         
-        // Step 1: BFS to find suspicious
-        Set<Integer> suspicious = new HashSet<>();
-        Queue<Integer> q = new LinkedList<>();
-        q.add(k);
-        suspicious.add(k);
+        // Step 1: Find suspicious using DFS
+        boolean[] suspicious = new boolean[n];
+        Stack<Integer> stack = new Stack<>();
+        stack.push(k);
+        suspicious[k] = true;
         
-        while (!q.isEmpty()) {
-            int cur = q.poll();
+        while (!stack.isEmpty()) {
+            int cur = stack.pop();
             for (int nei : graph.get(cur)) {
-                if (suspicious.add(nei)) {
-                    q.add(nei);
+                if (!suspicious[nei]) {
+                    suspicious[nei] = true;
+                    stack.push(nei);
                 }
             }
         }
         
-        // Step 2: Check incoming edges
-        for (int s : suspicious) {
-            for (int caller : reverse.get(s)) {
-                if (!suspicious.contains(caller)) {
-                    // Invalid removal → return all
-                    List<Integer> all = new ArrayList<>();
-                    for (int i = 0; i < n; i++) all.add(i);
-                    return all;
-                }
+        // Step 2: Validate removal
+        for (int[] edge : invocations) {
+            int a = edge[0], b = edge[1];
+            if (!suspicious[a] && suspicious[b]) {
+                // Invalid removal
+                List<Integer> all = new ArrayList<>();
+                for (int i = 0; i < n; i++) all.add(i);
+                return all;
             }
         }
         
         // Step 3: Return non-suspicious
         List<Integer> result = new ArrayList<>();
         for (int i = 0; i < n; i++) {
-            if (!suspicious.contains(i)) result.add(i);
+            if (!suspicious[i]) result.add(i);
         }
         return result;
     }
