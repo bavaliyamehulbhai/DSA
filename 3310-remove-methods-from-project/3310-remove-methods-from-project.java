@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         List<List<Integer>> graph = new ArrayList<>();
@@ -6,11 +8,14 @@ class Solution {
             graph.add(new ArrayList<>());
             reverse.add(new ArrayList<>());
         }
+        
         for (int[] edge : invocations) {
             int a = edge[0], b = edge[1];
             graph.get(a).add(b);
             reverse.get(b).add(a);
         }
+        
+        // Step 1: BFS to find suspicious
         Set<Integer> suspicious = new HashSet<>();
         Queue<Integer> q = new LinkedList<>();
         q.add(k);
@@ -19,22 +24,25 @@ class Solution {
         while (!q.isEmpty()) {
             int cur = q.poll();
             for (int nei : graph.get(cur)) {
-                if (!suspicious.contains(nei)) {
-                    suspicious.add(nei);
+                if (suspicious.add(nei)) {
                     q.add(nei);
                 }
             }
         }
+        
+        // Step 2: Check incoming edges
         for (int s : suspicious) {
             for (int caller : reverse.get(s)) {
                 if (!suspicious.contains(caller)) {
-                    // Invalid removal
+                    // Invalid removal → return all
                     List<Integer> all = new ArrayList<>();
                     for (int i = 0; i < n; i++) all.add(i);
                     return all;
                 }
             }
         }
+        
+        // Step 3: Return non-suspicious
         List<Integer> result = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             if (!suspicious.contains(i)) result.add(i);
