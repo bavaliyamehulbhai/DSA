@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bavaliyamehulbhai/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bavaliyamehulbhai/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bavaliyamehulbhai/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bavaliyamehulbhai/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bavaliyamehulbhai/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bavaliyamehulbhai/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
