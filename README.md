@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bavaliyamehulbhai/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/bavaliyamehulbhai/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0040-combination-sum-ii) |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/bavaliyamehulbhai/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0040-combination-sum-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bavaliyamehulbhai/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
