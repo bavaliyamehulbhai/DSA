@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bavaliyamehulbhai/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bavaliyamehulbhai/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bavaliyamehulbhai/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
