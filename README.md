@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bavaliyamehulbhai/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bavaliyamehulbhai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/bavaliyamehulbhai/DSA/tree/master/0051-n-queens) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bavaliyamehulbhai/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bavaliyamehulbhai/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bavaliyamehulbhai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/bavaliyamehulbhai/DSA/tree/master/0051-n-queens) |
@@ -175,5 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/bavaliyamehulbhai/DSA/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
