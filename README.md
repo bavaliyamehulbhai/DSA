@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bavaliyamehulbhai/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bavaliyamehulbhai/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2596-check-knight-tour-configuration](https://github.com/bavaliyamehulbhai/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bavaliyamehulbhai/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bavaliyamehulbhai/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -137,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/bavaliyamehulbhai/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/bavaliyamehulbhai/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/bavaliyamehulbhai/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/bavaliyamehulbhai/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
+| [2596-check-knight-tour-configuration](https://github.com/bavaliyamehulbhai/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Dancing Links
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/bavaliyamehulbhai/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
