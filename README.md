@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bavaliyamehulbhai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/bavaliyamehulbhai/DSA/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bavaliyamehulbhai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/bavaliyamehulbhai/DSA/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/bavaliyamehulbhai/DSA/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bavaliyamehulbhai/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0090-subsets-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bavaliyamehulbhai/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bavaliyamehulbhai/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bavaliyamehulbhai/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
