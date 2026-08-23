@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/bavaliyamehulbhai/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bavaliyamehulbhai/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/bavaliyamehulbhai/DSA/tree/master/0131-palindrome-partitioning) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bavaliyamehulbhai/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1927-sum-game](https://github.com/bavaliyamehulbhai/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bavaliyamehulbhai/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/bavaliyamehulbhai/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bavaliyamehulbhai/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/bavaliyamehulbhai/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
