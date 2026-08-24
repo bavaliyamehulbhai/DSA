@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/bavaliyamehulbhai/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bavaliyamehulbhai/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bavaliyamehulbhai/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bavaliyamehulbhai/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/bavaliyamehulbhai/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/bavaliyamehulbhai/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
@@ -120,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/bavaliyamehulbhai/DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
@@ -215,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bavaliyamehulbhai/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
