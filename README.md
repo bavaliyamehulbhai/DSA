@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bavaliyamehulbhai/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bavaliyamehulbhai/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bavaliyamehulbhai/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bavaliyamehulbhai/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bavaliyamehulbhai/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bavaliyamehulbhai/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bavaliyamehulbhai/DSA/tree/master/3731-find-missing-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bavaliyamehulbhai/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bavaliyamehulbhai/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bavaliyamehulbhai/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bavaliyamehulbhai/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bavaliyamehulbhai/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/bavaliyamehulbhai/DSA/tree/master/3731-find-missing-elements) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/bavaliyamehulbhai/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/bavaliyamehulbhai/DSA/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bavaliyamehulbhai/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0090-subsets-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bavaliyamehulbhai/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bavaliyamehulbhai/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bavaliyamehulbhai/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bavaliyamehulbhai/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/bavaliyamehulbhai/DSA/tree/master/2596-check-knight-tour-configuration) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bavaliyamehulbhai/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dancing Links
 |  |
 | ------- |
