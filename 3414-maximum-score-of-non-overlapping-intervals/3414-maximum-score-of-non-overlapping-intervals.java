@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Solution {
     public int[] maximumWeight(List<List<Integer>> intervals) {
         int n = intervals.size();
@@ -45,7 +43,7 @@ public class Solution {
                         candidate.addAll(choice[prev[i]][k-1]);
                     }
                     candidate.add(arr[i][3]);
-                    Collections.sort(candidate); // ensure lexicographic order
+                    Collections.sort(candidate); 
                     if (val > dp[i][k] || (val == dp[i][k] && lexicographicallySmaller(candidate, choice[i][k]))) {
                         dp[i][k] = val;
                         choice[i][k] = candidate;
