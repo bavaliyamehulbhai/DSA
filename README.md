@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bavaliyamehulbhai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/bavaliyamehulbhai/DSA/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bavaliyamehulbhai/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bavaliyamehulbhai/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bavaliyamehulbhai/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/bavaliyamehulbhai/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
