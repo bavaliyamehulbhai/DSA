@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bavaliyamehulbhai/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/bavaliyamehulbhai/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/bavaliyamehulbhai/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/bavaliyamehulbhai/DSA/tree/master/0131-palindrome-partitioning) |
 | [0940-distinct-subsequences-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bavaliyamehulbhai/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/bavaliyamehulbhai/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/bavaliyamehulbhai/DSA/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bavaliyamehulbhai/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bavaliyamehulbhai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0040-combination-sum-ii) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bavaliyamehulbhai/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/bavaliyamehulbhai/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bavaliyamehulbhai/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bavaliyamehulbhai/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bavaliyamehulbhai/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
