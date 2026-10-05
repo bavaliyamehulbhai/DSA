@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/bavaliyamehulbhai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/bavaliyamehulbhai/DSA/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0912-sort-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bavaliyamehulbhai/DSA/tree/master/0037-sudoku-solver) |
+| [0560-subarray-sum-equals-k](https://github.com/bavaliyamehulbhai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bavaliyamehulbhai/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bavaliyamehulbhai/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bavaliyamehulbhai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bavaliyamehulbhai/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bavaliyamehulbhai/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1872-stone-game-viii) |
