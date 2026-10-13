@@ -1,29 +1,18 @@
-import java.util.*;
-
 class Solution {
     public long maxAlternatingSum(int[] nums) {
         int n = nums.length;
-        Integer[] arr = Arrays.stream(nums)
-                              .map(Math::abs)
-                              .boxed()
-                              .toArray(Integer[]::new);
-        Arrays.sort(arr);
-        long score = 0;
-        int left = 0, right = n - 1;
-        boolean positiveTurn = true;
-
-        while (left <= right) {
-            if (positiveTurn) {
-                long sq = (long) arr[right] * arr[right];
-                score += sq;
-                right--;
-            } else {
-                long sq = (long) arr[left] * arr[left];
-                score -= sq;
-                left++;
-            }
-            positiveTurn = !positiveTurn;
+        for (int i = 0; i < n; i++) {
+            nums[i] *= nums[i];
         }
-        return score;
+        Arrays.sort(nums);
+
+        long ans = 0;
+        for (int i = 0; i < n / 2; i++) {
+            ans -= nums[i];
+        }
+        for (int i = n / 2; i < n; i++) {
+            ans += nums[i];
+        }
+        return ans;
     }
 }
