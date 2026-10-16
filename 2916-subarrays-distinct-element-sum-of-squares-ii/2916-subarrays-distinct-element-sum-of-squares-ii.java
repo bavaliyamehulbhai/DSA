@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     static final long MOD = 1_000_000_007L;
     static class Fenwick {
