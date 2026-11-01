@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bavaliyamehulbhai/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/bavaliyamehulbhai/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bavaliyamehulbhai/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/bavaliyamehulbhai/DSA/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0090-subsets-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bavaliyamehulbhai/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bavaliyamehulbhai/DSA/tree/master/0560-subarray-sum-equals-k) |
