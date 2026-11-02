@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bavaliyamehulbhai/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/bavaliyamehulbhai/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bavaliyamehulbhai/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0090-subsets-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bavaliyamehulbhai/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/bavaliyamehulbhai/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bavaliyamehulbhai/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/bavaliyamehulbhai/DSA/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/bavaliyamehulbhai/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bavaliyamehulbhai/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
